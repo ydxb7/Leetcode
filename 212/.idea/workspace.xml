@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c45889b-7abf-4ded-915a-ee04cc3c83b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/493_reverse_pairs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/out/production/493_reverse_pairs/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/out/production/493_reverse_pairs/com/company/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../493_reverse_pairs/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mergeSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mergeSort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mergeSort/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="45" column="57" lean-forward="true" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+            <state relative-caret-position="675">
+              <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1949#1950#0" expanded="true" />
@@ -127,9 +142,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -161,8 +175,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="45" column="57" lean-forward="true" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+        <state relative-caret-position="675">
+          <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1949#1950#0" expanded="true" />
