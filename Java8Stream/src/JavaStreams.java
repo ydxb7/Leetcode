@@ -162,6 +162,7 @@ public class JavaStreams {
 
 
         // Creating a list of integers
+        System.out.println("22.");
         List<Integer> list = Arrays.asList(-9, -18, 0, 25, 4);
 
         System.out.print("The maximum value is : ");
@@ -175,5 +176,12 @@ public class JavaStreams {
         System.out.println();
         int a = Stream.of(2, 4, 1, 9).max(Comparator.naturalOrder()).get();
         System.out.println(a);
+
+        System.out.println("23.");
+        String[] arr = new String[]{"a", "b", "c"};
+        Stream<String> streamOfArrayFull = Arrays.stream(arr);
+        Stream<String> streamOfArrayPart = Arrays.stream(arr, 1, 3);
+
+
     }
 }
