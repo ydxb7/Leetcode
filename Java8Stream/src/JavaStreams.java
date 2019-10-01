@@ -183,5 +183,14 @@ public class JavaStreams {
         Stream<String> streamOfArrayPart = Arrays.stream(arr, 1, 3);
 
 
+        // Fibonacci
+        Stream.iterate(new int[]{0, 1}, n -> new int[]{n[1], n[0] + n[1]})
+                .limit(20)
+                .map(n -> n[0])
+                .forEach(x -> System.out.println(x));
+
+        // It supports a predicate (condition) as second argument, and the stream.iterate will stop if the predicate is false.
+        Stream.iterate(1, n -> n < 20 , n -> n * 2)
+                .forEach(x -> System.out.println(x));
     }
 }
